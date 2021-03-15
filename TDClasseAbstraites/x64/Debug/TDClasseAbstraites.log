@@ -1,0 +1,15 @@
+﻿  CFigure.cpp
+C:\Users\cyril\source\repos\TDClasseAbstraites\TDClasseAbstraites\CRectangle.h(19,1): error C2504: 'CFigure' : classe de base non définie
+C:\Users\cyril\source\repos\TDClasseAbstraites\TDClasseAbstraites\CRectangle.h(23,11): error C2065: 'm_x' : identificateur non déclaré
+C:\Users\cyril\source\repos\TDClasseAbstraites\TDClasseAbstraites\CRectangle.h(23,17): error C2065: 'm_y' : identificateur non déclaré
+  Ctriangle.cpp
+C:\Users\cyril\source\repos\TDClasseAbstraites\TDClasseAbstraites\CRectangle.h(19,1): error C2504: 'CFigure' : classe de base non définie
+C:\Users\cyril\source\repos\TDClasseAbstraites\TDClasseAbstraites\CRectangle.h(23,11): error C2065: 'm_x' : identificateur non déclaré
+C:\Users\cyril\source\repos\TDClasseAbstraites\TDClasseAbstraites\CRectangle.h(23,17): error C2065: 'm_y' : identificateur non déclaré
+  Source.cpp
+C:\Users\cyril\source\repos\TDClasseAbstraites\TDClasseAbstraites\CRectangle.h(19,1): error C2504: 'CFigure' : classe de base non définie
+C:\Users\cyril\source\repos\TDClasseAbstraites\TDClasseAbstraites\CRectangle.h(23,11): error C2065: 'm_x' : identificateur non déclaré
+C:\Users\cyril\source\repos\TDClasseAbstraites\TDClasseAbstraites\CRectangle.h(23,17): error C2065: 'm_y' : identificateur non déclaré
+C:\Users\cyril\source\repos\TDClasseAbstraites\TDClasseAbstraites\Source.cpp(31,17): error C2440: '=' : impossible de convertir de 'CRectangle *' en 'CFigure *'
+C:\Users\cyril\source\repos\TDClasseAbstraites\TDClasseAbstraites\Source.cpp(31,12): message : Les types pointés n'ont aucun rapport entre eux ; conversion nécessitant reinterpret_cast, cast de style C ou cast de style fonction
+  Génération de code en cours...
